@@ -1,1 +1,16 @@
+# -*- coding: utf-8; mode: org -*-
 
+* Basic information
+- [[file:resume-ZHANG-Ji.org]]
+
+* Weekly Reports
+- 2022-11-18 -- 2022-11-25 [[file:./reports-weekly/20221125.org]]
+
+* Specific Research Progress
+- Natural Language Processing
+- Multimodal Learning  
+  
+* Future Research Ideas
+
+* Semester Planning and Reports
+- Fall 2022 [[file:reports-others/2022-fall.org]]
